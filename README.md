@@ -1,7 +1,8 @@
 - Hi, I’m @Ogbo0810
-- 👀 I’m interested in Digital domputer design using Hardware Description Languages. I also focus on using C++ to improve my Software Engineering Skills and
+- 👀 I’m interested VLSI, Hardware Security and Digital Computer Design using Hardware Description Languages. 
+    I also focus on using C to improve my coding skills.
     I’m currently learning Python alongside Cryptography and its implementations in VHDL
-- 💞️ I’m looking to collaborate on Any projects involvingAI, Embedded Software Engineering, Microprocessor design in VHDL, UI/UX design and Network Security
+- 💞️ I’m looking to collaborate on projects involving VLSI, Hardware Security, Machine Learning, Design in VHDL, and UI/UX design
 - 📫 How to reach me Email: ogbodadeboe@gmail.com
 
 <!---
